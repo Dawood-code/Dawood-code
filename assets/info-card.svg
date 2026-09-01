@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="352" viewBox="0 0 490 352" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Dawood developer card</title>
+  <desc id="desc">A terminal-style summary of Muhammad Dawood's role, stack, and interests.</desc>
+  <style>
+    text { font-family:ui-monospace,SFMono-Regular,Consolas,"Liberation Mono",monospace; }
+    .line { opacity:0;transform:translateX(-8px);animation:print .42s ease forwards; }
+    .key { fill:#56d364; font-size:13px; font-weight:700; }
+    .colon { fill:#8b949e; font-size:13px; }
+    .value { fill:#c9d1d9; font-size:13px; }
+    @keyframes print { to { opacity:1; transform:translateX(0); } }
+    @media (prefers-reduced-motion:reduce) { .line { opacity:1; transform:none; animation:none; } }
+  </style>
+  <rect x="0.5" y="0.5" width="489" height="351" rx="14" fill="#0d1117" stroke="#30363d" />
+  <circle cx="22" cy="22" r="5" fill="#ff5f57" />
+  <circle cx="39" cy="22" r="5" fill="#febc2e" />
+  <circle cx="56" cy="22" r="5" fill="#28c840" />
+  <text x="78" y="27" fill="#8b949e" font-size="12">dawood@github:~</text>
+  <text x="30" y="63" fill="#56d364" font-size="14">$</text>
+  <text x="48" y="63" fill="#f0f6fc" font-size="14" font-weight="700">neofetch --profile</text>
+  <line x1="30" y1="76" x2="460" y2="76" stroke="#21262d" />
+  <g class="line" style="animation-delay:0.34s"><text class="key" x="30" y="100">name</text><text class="colon" x="122" y="100">:</text><text class="value" x="142" y="100">Muhammad Dawood</text></g><g class="line" style="animation-delay:0.45s"><text class="key" x="30" y="134">role</text><text class="colon" x="122" y="134">:</text><text class="value" x="142" y="134">Web · App · Game Developer</text></g><g class="line" style="animation-delay:0.56s"><text class="key" x="30" y="168">now</text><text class="colon" x="122" y="168">:</text><text class="value" x="142" y="168">React + React Native</text></g><g class="line" style="animation-delay:0.67s"><text class="key" x="30" y="202">stack</text><text class="colon" x="122" y="202">:</text><text class="value" x="142" y="202">JavaScript · Python · C++</text></g><g class="line" style="animation-delay:0.78s"><text class="key" x="30" y="236">home</text><text class="colon" x="122" y="236">:</text><text class="value" x="142" y="236">Lahore, Pakistan</text></g><g class="line" style="animation-delay:0.89s"><text class="key" x="30" y="270">open_to</text><text class="colon" x="122" y="270">:</text><text class="value" x="142" y="270">collaboration &amp; useful products</text></g><g class="line" style="animation-delay:1.00s"><text class="key" x="30" y="304">offscreen</text><text class="colon" x="122" y="304">:</text><text class="value" x="142" y="304">anime · football · Hala Madrid</text></g>
+  <rect x="30" y="327" width="8" height="15" fill="#56d364"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" /></rect>
+</svg>
